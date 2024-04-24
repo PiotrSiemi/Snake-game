@@ -4,7 +4,7 @@ All explanations are included in the main file.
 
 ## Usage
 ### To compile
-Using g++ compiler:
+Using GNU compiler:
 ```
 g++ -o snake snake.cpp -lwinmm
 ```
